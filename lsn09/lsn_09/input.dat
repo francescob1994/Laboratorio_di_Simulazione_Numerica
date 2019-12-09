@@ -1,0 +1,14 @@
+30
+500
+500
+0
+0.5
+0
+
+
+    ReadInput >> Ncities
+    ReadInput >> Nchromosomes (massimo 1000)
+    ReadInput >> Ngenerations
+    ReadInput >> b   #b=1 square
+    ReadInput >> pc
+    ReadInput >> ll  #ll=0 L1
