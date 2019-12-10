@@ -1,0 +1,23 @@
+30
+500
+20
+0
+0.5
+0
+50
+40
+0.002
+
+
+    ReadInput >> Ncities
+    ReadInput >> Nchromosomes (massimo 1000)
+    ReadInput >> n_gen_per_T
+    ReadInput >> b #=1 square.dat
+    ReadInput >> pc
+    ReadInput >> ll #=0 L1
+
+    ReadInput >> n_beta (max 1000)
+    ReadInput >> beta_max
+    ReadInput >> beta_min
+
+
