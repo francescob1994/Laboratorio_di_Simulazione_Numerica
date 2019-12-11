@@ -1,0 +1,2 @@
+- main file = lsn_01.cxx
+- random.cpp e random.h contengono implementazione e definizione dell'oggetto Random
