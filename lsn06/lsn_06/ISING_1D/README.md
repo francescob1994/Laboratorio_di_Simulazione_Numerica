@@ -1,0 +1,2 @@
+- main file = Monte_Carlo_ISING_1D.cpp
+- lo script temperature.sh lancia 30 simulazioni a 30 temperature diverse nell'intervallo [0.5,2]
