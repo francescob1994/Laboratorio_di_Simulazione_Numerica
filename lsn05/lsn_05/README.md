@@ -1,0 +1,2 @@
+- main file = lsn_05.cpp
+- funzioni.cpp e funzioni.h contengono implementazione e definizione di alcune funzioni come gli algoritmi metropolis, le densità di probabilità ecc.
