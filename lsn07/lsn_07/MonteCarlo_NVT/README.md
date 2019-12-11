@@ -1,6 +1,4 @@
 - main file = Monte_Carlo_NVT.cpp
-
-per il calcolo delle correlazioni:
 - repeat.sh esegue 60 simulazioni inizializzando l'oggetto random in modo diverso ad ogni simulazione. La simulazione n-esima
   stampa nel file u_p.n valori istantanei di energia e pressione. In seguito viene eseguito lo script correlazioni.py con input 'n'.
 - correlazioni.py stampa sul file cov.n nella prima colonna i prodotti delle energie istantanee con la prima energia e nella seconda 
