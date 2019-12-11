@@ -1,1 +1,2 @@
-LSN_exercises_delivery
+- LSN_exercises_delivery
+- tutti i programmi si compilano con il comando make a eccezione dei programmi delle lezioni 11 e 12 che sono integrati nelle relazioni
