@@ -1,0 +1,4 @@
+- main file = TSP.cpp
+- city.cpp genera configurazioni di città sulla circonferenza e sul quadrato e le salva in circumference.dat e square.dat
+- manysim.sh lancia 100 volte TSP.exe
+- GA.py disegna il miglior cammino e determina il tempo scala dell'ottimizzazione
