@@ -1,0 +1,3 @@
+- main file = MolDyn.cpp
+- lo script clean.sh elimina alcuni dei file prodotti dall'esecuzione di MD.exe
+- lo script equilibrate.sh lancia 6 simulazioni MD.exe. La prima legge la confiurazione iniziale da config.0, le successive da old.final e config.final
